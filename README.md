@@ -1,10 +1,9 @@
-###  Hello, I'm Arnold Amani
+  >Amani_Arnold
 
-A Software Developer with a  background in developing innovative applications and solutions.  
-I thrive in dynamic environments and I'm passionate about solving  technical challenges.
+### Greetings!
 
--  Building  apps with **Javascript, Next.js, Node.js, Express and Nest.js**
--  Focused on clean code, performance and user experience
+Through clean code, performance & exceptional user experience, my focus is on building robust web applications with JavaScript, Next.js, Node.js, Express & more, while still learning and expanding my knowledge.
+Welcoming mobile applications too.
 
 
 ---
