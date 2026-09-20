@@ -1,11 +1,6 @@
-  >Amani_Arnold
-
-### Greetings!
-
-Through clean code, performance & exceptional user experience, my focus is on building robust web applications with JavaScript, Next.js, Node.js, Express & more, while still learning and expanding my knowledge.
-Welcoming mobile applications too.
-
-
+  ### Amani_Arnold
+  
+  > Web App Developer | Expanding into Mobile | Welcoming the Future
 ---
 
 ###  Connect with me
