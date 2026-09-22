@@ -3,6 +3,15 @@
   > Web App Developer | Expanding into Mobile | Welcoming the Future
 ---
 
+### About
+ ```javascript
+const amani = {
+  building: ["web apps", "backend systems", "APIs"],
+  learning: "Deep diving into Advanced System Design & DSA fundamentals "
+}
+```
+
+---
 ###  Connect with me
 
 <p>
